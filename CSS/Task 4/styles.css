@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+}
+.content{
+    padding: 40px;
+    border: 2px solid;
+    border-color: rgb(204, 13, 13);
+    font-size: large;
+}

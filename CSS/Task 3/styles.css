@@ -1,0 +1,11 @@
+p{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    background-color: white;
+    color:darkblue;
+    font-weight: bold;
+}

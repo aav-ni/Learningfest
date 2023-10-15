@@ -1,0 +1,24 @@
+.parent{
+    min-width: 500px;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.l1{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.l2{
+    justify-self: center;
+    align-self: center;
+}
+
+.l3{
+    display: flex;
+    justify-content: space-between;
+}
