@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    border: 1px solid;
+    border-color: lightgrey;
+    margin: 20px;
+    min-height: 500px;
+    width: 500px;
+    background-color: white;
+}
+
+.fill{
+    border-bottom: 0px solid;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    height: max-content;
+    padding-bottom: 30px;
+}
+
+.choose{
+    margin-left: 30px;
+    border: 0px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+button{
+    border: 1px solid;
+}
+
+.form-floating{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.smt{
+    text-align: center;
+    margin: 30px;
+}
+
+.submit{
+    background-color: rgb(120, 135, 141);
+    border: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
