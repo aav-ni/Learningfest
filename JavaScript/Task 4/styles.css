@@ -1,0 +1,64 @@
+.sign {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgb(230, 118, 118);
+    border: 3px outset;
+    border-radius: 8px;
+    padding:6px;
+    max-width:350px; 
+    height:400px;
+}
+
+.signup-box {
+    text-align: left;
+    margin-left: 10px;
+    height: 90px;
+    font-weight: 550;
+    padding-top:15px ;
+}
+
+.ip {
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 10px;
+    margin: 6px 0;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color:rgb(71, 167, 151);
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 95%;
+    padding: 10px;
+    background-color: #070706;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+h1{
+    margin-left: 100px;
+}
+
+.wlcom {
+    background: linear-gradient(pink,purple);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: x-large;
+}
+
